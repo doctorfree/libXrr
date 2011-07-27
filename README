@@ -1,0 +1,3 @@
+libXrr - library of X11 support routines
+
+These functions are used by many of the projects in the Mathrec package.
